@@ -9,7 +9,9 @@ python-dotenv
 google-genai
 ```
 ## Changes to be made
-you need to add your API key from google in your *.env*
+- add your API key from google in your *.env* file
+- add your API model in the code
+
 
 ## To run this file, type the following in a new terminal:
 ```
