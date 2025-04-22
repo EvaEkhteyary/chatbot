@@ -1,5 +1,5 @@
 # Q&A Chatbot
-I have made this chatbot using Google gemini api, to answer user queries in a conversational manner.
+I have made this chatbot using Google gemini API, to answer user queries in a conversational manner.
 
 # Install dependencies and requirement.txt:
 ```
